@@ -1,0 +1,7 @@
+results/*.html
+results/*.xml
+results/*.jsonl
+results/*.png
+.venv/
+venv/
+__pycache__/
